@@ -244,6 +244,7 @@ GIS
 * `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
 * `OpenAddresses <http://openaddresses.io/>`_
+* `ArcGIS Open Data portal <http://opendata.arcgis.com/>`_*
 * `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
 * `Pleiades - Gazetteer and graph of ancient places <http://pleiades.stoa.org/>`_
 * `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_ & `additional high-resolution data files <http://data.ub.uni-muenchen.de/61/>`_
